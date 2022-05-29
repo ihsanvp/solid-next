@@ -1,4 +1,12 @@
 {
+  "name": "solid-next",
+  "version": "1.0.0",
+  "author": {
+    "name": "ihsanvp",
+    "email": "ihsanvp2738@gmail.com",
+    "url": "https://studiotwofour.com"
+  },
+  "license": "MIT",
   "scripts": {
     "dev": "yarn server",
     "prod": "yarn build && yarn server:prod",
